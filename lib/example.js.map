@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "sources": [
+    "../src/example.js"
+  ],
+  "names": [
+    "testFun",
+    "test"
+  ],
+  "mappings": ";;AACA,IAAMA,UAAU,SAAVA,OAAU,CAACC,IAAD,EAAU;AACtB,WAAOA,IAAP;AACH,CAFD",
+  "file": "example.js",
+  "sourcesContent": [
+    "\r\nconst testFun = (test) => {\r\n    return test;\r\n};"
+  ]
+}
